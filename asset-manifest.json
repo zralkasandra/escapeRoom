@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/escapeRoom/static/css/main.95b33924.css",
+    "main.js": "/escapeRoom/static/js/main.cbb20e5b.js",
+    "static/js/787.80c8fb86.chunk.js": "/escapeRoom/static/js/787.80c8fb86.chunk.js",
+    "static/media/background.jpg": "/escapeRoom/static/media/background.f4dbdbd896be331b232b.jpg",
+    "static/media/bella.jpg": "/escapeRoom/static/media/bella.f140777e4c527f7c9851.jpg",
+    "static/media/tropik.jpg": "/escapeRoom/static/media/tropik.85cb72cb8df1e43e5814.jpg",
+    "static/media/friends.jpg": "/escapeRoom/static/media/friends.2aa8e22b2bc569e298eb.jpg",
+    "static/media/congratulations.gif": "/escapeRoom/static/media/congratulations.5e909c500097d666bc11.gif",
+    "static/media/room3.jpg": "/escapeRoom/static/media/room3.c9dbd6a5315e7dd551fd.jpg",
+    "static/media/room2.jpg": "/escapeRoom/static/media/room2.168a8ad9ee56b0bf2036.jpg",
+    "static/media/room1.jpg": "/escapeRoom/static/media/room1.72d9b9ce4baf0e598d00.jpg",
+    "static/media/start.jpg": "/escapeRoom/static/media/start.d9e7ba79d6f1f4776a35.jpg",
+    "index.html": "/escapeRoom/index.html",
+    "main.95b33924.css.map": "/escapeRoom/static/css/main.95b33924.css.map",
+    "main.cbb20e5b.js.map": "/escapeRoom/static/js/main.cbb20e5b.js.map",
+    "787.80c8fb86.chunk.js.map": "/escapeRoom/static/js/787.80c8fb86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b33924.css",
+    "static/js/main.cbb20e5b.js"
+  ]
+}
